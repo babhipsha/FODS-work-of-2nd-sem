@@ -1,0 +1,3 @@
+admin|Library Admin|Librarian
+john|John Carter|Student
+emma|Emma Watson|Student

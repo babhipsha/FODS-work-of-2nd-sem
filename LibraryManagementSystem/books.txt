@@ -1,0 +1,4 @@
+Python Basics|John Smith|978111|Programming|Available
+Database Systems|James Lee|978222|Database|Available
+Data Science|Andrew Ng|978333|AI|Available
+Java Programming|Herbert Schildt|978444|Programming|Available
